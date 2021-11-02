@@ -1,7 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Mindi Richia Putri**.    
-Saya seorang **Android Enthusiast**   
+Perkenalkan saya **Mindi Richia Putri**.    
 
 <p align="left">
 <a href="https://github.com/mindiputri30">
